@@ -1,2 +1,2 @@
-# K-Means
-K-Means Algorithm
+# Hierarchical Clustering
+Hierarchical Clustering Algorithm.
