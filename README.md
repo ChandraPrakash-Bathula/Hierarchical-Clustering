@@ -61,4 +61,3 @@ The script will output:
 This analysis provides insights into the natural groupings within the wine dataset based on selected chemical properties. It showcases the power of hierarchical clustering in understanding complex datasets and lays the groundwork for further exploration, such as identifying characteristics that define premium wines or tailoring wine recommendations.
 
 ---
-For more information or to contribute to this project, please feel free to reach out or submit a pull request.
