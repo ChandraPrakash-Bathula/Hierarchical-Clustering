@@ -1,4 +1,4 @@
-# 🍇 Hierarchical Clustering : Wine Clustering Analysis
+# Hierarchical Clustering : 🍇 Wine Clustering Analysis
 
 This project demonstrates an exploratory analysis and clustering of wine data using Agglomerative Clustering, a hierarchical clustering technique. It employs the wine dataset, focusing on uncovering inherent groupings based on wine characteristics such as Alcohol, Malic Acid, and Ash content. Visualizations include dendrograms for understanding cluster formations and scatter plots for visual inspection of clusters in both 2D and 3D.
 
